@@ -1,0 +1,1790 @@
+{
+    "id": 30,
+    "name": "Mambo",
+    "slug": "mambo",
+    "skin": "dark",
+    "media_logo": "https://manager.digitavolo.com/uploads/202106/3dpqxnlhiydhmktpcagz_resized.png",
+    "media_bg_intro": "https://manager.digitavolo.com/uploads/202106/uxczo3afskjyiyfno2ay_resized.jpg",
+    "media_bg_menu": "https://manager.digitavolo.com/uploads/202106/pun4qwuvplv3czpjljsj_resized.jpg",
+    "notes": "Tarallini  0,50 euro<br />\r\n<br />\r\nOlive        0,50 euro<br />\r\n<br />\r\nSERVIZIO AL TAVOLO  1 EURO<br />\r\n<br />\r\nNegli alimenti serviti in questo esercizio e nei loro condimenti si riscontra la presenza di tracce di ingredienti che vengono classificati come “allergeni“ e possono provocare allergie o intolleranze in alcune persone e possono costituire un pericolo per la salute. Si invitano, quindi, i consumatori, in particolare quelli che soffrono di allergie o intolleranze alimentari, ad effettuare scelte consapevoli per la loro sicurezza. Chiedete al Nostro personale in sala per qualsiasi domanda o informazione in merito.<br />\r\n<br />\r\n&nbsp;<br />\r\n<br />\r\n&nbsp;<br />\r\n<br />\r\n&nbsp;",
+    "show_notes": true,
+    "menu_categories": [
+        {
+            "id": 542,
+            "name": "HAMBURGER",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 4968,
+                    "name": "Classic",
+                    "description": "Manzo, insalata, pomodoro, maionese",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4968,
+                            "measure_unit": null,
+                            "price": 6.5
+                        }
+                    ]
+                },
+                {
+                    "id": 4969,
+                    "name": "Chicken Burger",
+                    "description": "Crunchy chiken burger, pomodoro, insalata, maionese, rucola",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4969,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 4970,
+                    "name": "Onion",
+                    "description": "Manzo, anello di cipolla fritto, pomodoro, ketchup",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4970,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 4971,
+                    "name": "Cheese Burger",
+                    "description": "Manzo, bacon piastrato, salsa cheddar, insalata, salsa barbecue",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4971,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 4972,
+                    "name": "Veggie",
+                    "description": "Hamburger verdure cotto al forno, insalata, pomodoro, rucola, olio EVO",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4972,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 4973,
+                    "name": "Mambo Burger",
+                    "description": "Manzo, scamorza affumicata, melanzana grigliata, pomodoro, rucola, salsa barbecue",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4973,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 4974,
+                    "name": "Special Angus",
+                    "description": "Angus Irlandese,salsa cheddar, insalata, pomodoro, salsa barbecue",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4974,
+                            "measure_unit": null,
+                            "price": 10
+                        }
+                    ]
+                },
+                {
+                    "id": 4975,
+                    "name": "Black Angus",
+                    "description": "Black Angus, melanzane grigliate, insalata, maionese, rucola",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4975,
+                            "measure_unit": null,
+                            "price": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 543,
+            "name": "FISH BURGER",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 4976,
+                    "name": "Salmon Burger",
+                    "description": "Pane artigianale al nero di seppia, burger di salmone, insalata di zucchine, burro aromatizzato al limone, patè di olive verdi, maionese, timo",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4976,
+                            "measure_unit": null,
+                            "price": 11
+                        }
+                    ]
+                },
+                {
+                    "id": 4977,
+                    "name": "Spada Burger",
+                    "description": "Pane artigianale al nero di seppia, burger di pesce spada, insalata, ciliegino piastrato, patè di olive nere, maionese",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4977,
+                            "measure_unit": null,
+                            "price": 11
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 544,
+            "name": "FRITTI",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 4978,
+                    "name": "Pittule",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4978,
+                            "measure_unit": null,
+                            "price": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 4979,
+                    "name": "Onion Rings",
+                    "description": "Anelli di cipolla fritti",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4979,
+                            "measure_unit": null,
+                            "price": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 4980,
+                    "name": "Steak house potatoes",
+                    "description": "patatine fritte steak house",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4980,
+                            "measure_unit": null,
+                            "price": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 4981,
+                    "name": "Crocchè alla menta",
+                    "description": "Crocchette di patate alla menta",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4981,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 4982,
+                    "name": "Duca crispy chicken bites",
+                    "description": "tagli pregiati di petto di pollo panato",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4982,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 4983,
+                    "name": "Polpette di bovino",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4983,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 4984,
+                    "name": "Fritto Misto",
+                    "description": "(consigliato X2 persone)",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4984,
+                            "measure_unit": null,
+                            "price": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 545,
+            "name": "INSALATONE",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 4985,
+                    "name": "Mixed Salad",
+                    "description": "insalata verde, carote, carosello(cetriolo salentino), olive, rucola",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4985,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 4986,
+                    "name": "Cheese Salad",
+                    "description": "insalata mista con grana padano, pomodoro, peperone verde, olive",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4986,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 4987,
+                    "name": "Mambo Salad",
+                    "description": "insalata con tonno all'olio d'oliva, mais, pomodoro, cipolla fresca, olive, origano",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4987,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 546,
+            "name": "PINSE ROMANE",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 4988,
+                    "name": "Pinsa Classica",
+                    "description": "pomodoro, mozzarella, basilico, olio extra vergine d'oliva",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4988,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 4989,
+                    "name": "Pinsa Estate",
+                    "description": "pomodori freschi, mozzarella, scaglie di Grana Padano, rucola, olio extra vergine d'oliva",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4989,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 4990,
+                    "name": "Pinsa Contadina",
+                    "description": "mozzarella, pomodoro, tonno all'olio d'oliva, anelli di cipolla grigliata",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4990,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 4991,
+                    "name": "Pinsa Diavola",
+                    "description": "mozzarella, pomodoro, salame piccante, olio piccante",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4991,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 547,
+            "name": "DESSERT",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 4992,
+                    "name": "Spumone limone e mandarino",
+                    "description": "cremoso sorbetto al limone e mandarino arricchito con salsa all'arancia",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4992,
+                            "measure_unit": null,
+                            "price": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 4993,
+                    "name": "Spumone nocciola e cioccolato",
+                    "description": "cremoso gelato alla nocciola e cioccolato, arricchito con nocciole pralinate e gocce di cioccolato",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4993,
+                            "measure_unit": null,
+                            "price": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 4994,
+                    "name": "Tartufo al cioccolato",
+                    "description": "delicato gelato al cioccolato e crema, avvolto in una delicata polvere di cacao",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4994,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 4995,
+                    "name": "Tartufo al caffe",
+                    "description": "delicato gelato fiordilatte al caffè, avvolto in una raffinata granella di meringa",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4995,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 548,
+            "name": "COCKTAILS",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 4996,
+                    "name": "Spritz",
+                    "description": "aperol, prosecco, soda",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4996,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 4997,
+                    "name": "Classic Pimms",
+                    "description": "Pimm's, fettine d'arancia, limone e cetriolo",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4997,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 4998,
+                    "name": "Caipirinha",
+                    "description": "lime, zucchero, cachaca",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4998,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 4999,
+                    "name": "Caipiroska",
+                    "description": "Vodka, lime, zucchero di canna",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 4999,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5000,
+                    "name": "Vodka Sour",
+                    "description": "Vodka, succo di lime, zucchero",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5000,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5001,
+                    "name": "Gimlet",
+                    "description": "gin, succo limone, zucchero, menta",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5001,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5002,
+                    "name": "Sex on the beach",
+                    "description": "vodka, vodka alla pesca, succo d'rancia, succo di mirtillo",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5002,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5003,
+                    "name": "Cubalibre",
+                    "description": "rum, succo lime, cocacola",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5003,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5004,
+                    "name": "John Collins",
+                    "description": "gin, succo limone, zucchero, soda",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5004,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5005,
+                    "name": "Tequila sunrise",
+                    "description": "tequila, succo d'arancia, granatina",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5005,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5006,
+                    "name": "Americano",
+                    "description": "campari, martini rosso, soda",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5006,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5007,
+                    "name": "Moskow Mule",
+                    "description": "vodka, cetriolo, lime, zenzero, ginger beer",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5007,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5008,
+                    "name": "Negroni",
+                    "description": "campari, martini rosso, gin",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5008,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5009,
+                    "name": "Negroni Sbagliato",
+                    "description": "campari, martini rosso, prosecco",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5009,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5010,
+                    "name": "Cosmopolitan",
+                    "description": "vodka, triple sec, lime, mirtillo",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5010,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5011,
+                    "name": "Green Iguana",
+                    "description": "tequila, midori, succo di lime",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5011,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5012,
+                    "name": "whisky sour",
+                    "description": "whisky,succo limone, zucchero",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5012,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5013,
+                    "name": "Yellow bird",
+                    "description": "rum, galliano, triple sec, succo di lime",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5013,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5014,
+                    "name": "Bramble",
+                    "description": "gin, liquore alle more, zucchero liquido, succo di limone",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5014,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5015,
+                    "name": "Aviation",
+                    "description": "gin, maraschino, succo limone",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5015,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5016,
+                    "name": "White Lady",
+                    "description": "gin, triple sec, succo limone",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5016,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5017,
+                    "name": "French Martini",
+                    "description": "vodka, liquore lampone, succo ananas",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5017,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5018,
+                    "name": "Dark and Stormy",
+                    "description": "rum, lime, ginger beer",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5018,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5019,
+                    "name": "Mojito",
+                    "description": "Rum, succo lime, zucchero, menta, soda,",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5019,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 5020,
+                    "name": "Japanese",
+                    "description": "vodka, rum, gin, midori, sweet e sour, lemonsoda",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5020,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 5021,
+                    "name": "Long island ice tea",
+                    "description": "Vodka, gin, rum, triple sec, succo di limone, cocacola",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5021,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 5022,
+                    "name": "Miami ice",
+                    "description": "vodka, rum, gin, blu curacao, sweet e sour, sprite",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5022,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 5023,
+                    "name": "Last Word",
+                    "description": "gin, chartreuse verde, lime, maraschino",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5023,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 549,
+            "name": "GIN PREMIUM",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 5024,
+                    "name": "Tanqueray",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5024,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5025,
+                    "name": "Bombay",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5025,
+                            "measure_unit": null,
+                            "price": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 5026,
+                    "name": "Hendrick's",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5026,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 5028,
+                    "name": "Bulldog",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5028,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 5029,
+                    "name": "Sipsmith Sloe gin",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5029,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 5030,
+                    "name": "Magico Gin",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5030,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 5031,
+                    "name": "Cobalto Gin",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5031,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 15478,
+                    "name": "Nordes",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 16499,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 550,
+            "name": "SOFT DRINK",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 5032,
+                    "name": "Acqua 0,5 L",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5032,
+                            "measure_unit": null,
+                            "price": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 5033,
+                    "name": "Acqua 1L",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5033,
+                            "measure_unit": null,
+                            "price": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 5034,
+                    "name": "Cocacola",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5034,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5035,
+                    "name": "Cocacola zero",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5035,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5036,
+                    "name": "Sprite",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5036,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5037,
+                    "name": "Fanta",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5037,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5038,
+                    "name": "Crodino",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5038,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5039,
+                    "name": "Gassosa",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5039,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5040,
+                    "name": "Lemonsoda",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5040,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5041,
+                    "name": "Cedrata",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5041,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5043,
+                    "name": "Cocktail san pellegrino",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5043,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5044,
+                    "name": "Schweppes lemon",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5044,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5045,
+                    "name": "Schweppes tonica",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5045,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5046,
+                    "name": "The pesca",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5046,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5047,
+                    "name": "The limone",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5047,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5048,
+                    "name": "Campari soda",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5048,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5049,
+                    "name": "Red Bull",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5049,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5050,
+                    "name": "Ginger Beer",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5050,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5051,
+                    "name": "Succhi",
+                    "description": "ananas, pera, albicocca, pesca,pesca e mango",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5051,
+                            "measure_unit": null,
+                            "price": 2.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 551,
+            "name": "VINI E BOLLICINE",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 5052,
+                    "name": "Calice Vino",
+                    "description": "tenute S.Marco cantine due palme",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5052,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5053,
+                    "name": "Bottiglia Vino",
+                    "description": "bianco/rosato/primitivo/negroamaro\r\nTenute S.Marco cantine due palme",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5053,
+                            "measure_unit": null,
+                            "price": 15
+                        }
+                    ]
+                },
+                {
+                    "id": 5054,
+                    "name": "Flute prosecco",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5054,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5055,
+                    "name": "Prosecco extra dry",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5055,
+                            "measure_unit": null,
+                            "price": 15
+                        }
+                    ]
+                },
+                {
+                    "id": 5056,
+                    "name": "Prosecco valdobbiadene superiore DOCG",
+                    "description": "\"rive di colbertaldo\"",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5056,
+                            "measure_unit": null,
+                            "price": 25
+                        }
+                    ]
+                },
+                {
+                    "id": 5057,
+                    "name": "Moet & Chandon champagne imperial",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5057,
+                            "measure_unit": null,
+                            "price": 70
+                        }
+                    ]
+                },
+                {
+                    "id": 5058,
+                    "name": "Veuve Clicquot Champagne",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5058,
+                            "measure_unit": null,
+                            "price": 85
+                        }
+                    ]
+                },
+                {
+                    "id": 15479,
+                    "name": "Five Roses Anniversario",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 16500,
+                            "measure_unit": null,
+                            "price": 22
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 552,
+            "name": "AMARI - DISTILLATI",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 5059,
+                    "name": "Montenegro",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5059,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5060,
+                    "name": "Jagermeister",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5060,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5061,
+                    "name": "Vecchio amaro del capo",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5061,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5062,
+                    "name": "Bayles",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5062,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5063,
+                    "name": "Amaro Lucano",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5063,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5064,
+                    "name": "Limoncello",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5064,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5065,
+                    "name": "Disaronno",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5065,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5066,
+                    "name": "Sambuca Molinari",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5066,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5067,
+                    "name": "Liquore Finocchietto Calabro",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5067,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5068,
+                    "name": "Grappa bianca del conte",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5068,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5069,
+                    "name": "Jack Daniel's",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5069,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5070,
+                    "name": "Liquore Lampone Quaglia",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5070,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5071,
+                    "name": "Liquore Bergamotto Quaglia",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5071,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5072,
+                    "name": "Liquore Pino Mugo Quaglia",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5072,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5073,
+                    "name": "Liquore zenzero Domaine de Canton",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5073,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5074,
+                    "name": "Assenzio Vieux Pontarlier",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5074,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 15480,
+                    "name": "Borghetti caffé",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 16501,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 15481,
+                    "name": "Liquore liquirizia Goccia Nera",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 16502,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 553,
+            "name": "BIRRE",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 5075,
+                    "name": "Lowenbrau (alla spina) Piccola",
+                    "description": "Vol 5,4%\nProdotta con ingredienti selezionati in base alla legge di purezza bavarese",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5075,
+                            "measure_unit": null,
+                            "price": 3.5
+                        }
+                    ]
+                },
+                {
+                    "id": 5076,
+                    "name": "Lowenbrau (alla spina) Media",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5076,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5077,
+                    "name": "Edelstark (alla spina) Piccola",
+                    "description": "Vol 7,5 %\r\nLe stark bier sono birre generalmente a bassa fermentazione, dall'alto volume alcolico con un corpo importante e maltato",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5077,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5078,
+                    "name": "Edelstark (alla spina) Media",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5078,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5079,
+                    "name": "Robertus Kardinal (alla spina) Piccola",
+                    "description": "Vol 7,5%\r\nNorbertus Kardinal è una birra conventuale Bock (doppio malto) di color rosso-ambrato.\r\nAmbrata, con schiuma bianca, fine e persistente",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5079,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5080,
+                    "name": "Robertus Kardinal (alla spina) Media",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5080,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5081,
+                    "name": "Tennent's",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5081,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5082,
+                    "name": "Corona",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5082,
+                            "measure_unit": null,
+                            "price": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 5084,
+                    "name": "Corsendonk Blanche",
+                    "description": "Vol 4,8%\r\nbirra d'abbazia bianca",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5084,
+                            "measure_unit": null,
+                            "price": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 5086,
+                    "name": "Double Hop Monster IPA",
+                    "description": "Vol 7,2%\r\nbirra tipo double IPA dal forte carattere luppolato, rinfrescante amaro finale. Note di frutta tropicale ne caratterizzano il gusto",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5086,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 5088,
+                    "name": "Cornet",
+                    "description": "Vol 8,5%\r\nCornet è una corposa blond belgian ale dal sapore delicato tenace e sofisticato dal legno con note di vaniglia",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5088,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 15482,
+                    "name": "Cellina",
+                    "description": "La prima birra all oliva cellina del Salento",
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 16503,
+                            "measure_unit": null,
+                            "price": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 554,
+            "name": "TWIN-SET",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 5089,
+                    "name": "Moskovskaya 1L",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5089,
+                            "measure_unit": null,
+                            "price": 90
+                        }
+                    ]
+                },
+                {
+                    "id": 5090,
+                    "name": "Belvedere 1L",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5090,
+                            "measure_unit": null,
+                            "price": 120
+                        }
+                    ]
+                },
+                {
+                    "id": 5091,
+                    "name": "Tanqueray Gin 1L",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5091,
+                            "measure_unit": null,
+                            "price": 90
+                        }
+                    ]
+                },
+                {
+                    "id": 5092,
+                    "name": "Bulldog Gin 1L",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 5092,
+                            "measure_unit": null,
+                            "price": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1752,
+            "name": "VODKA PREMIUM",
+            "description": null,
+            "notes": null,
+            "show_notes": false,
+            "menu_voices": [
+                {
+                    "id": 15483,
+                    "name": "Belvedere",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 16504,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 15484,
+                    "name": "Grey Goose",
+                    "description": null,
+                    "allergens": [],
+                    "menu_voice_variations": [
+                        {
+                            "id": 16505,
+                            "measure_unit": null,
+                            "price": 8
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
